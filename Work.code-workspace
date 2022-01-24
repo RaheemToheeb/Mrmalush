@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\todayclass"
+		},
+		{
+			"path": "..\\..\\Newjob.html"
+		},
+		{
+			"path": "..\\Revision"
+		},
+		{
+			"path": "..\\OOP"
+		},
+		{
+			"path": "..\\QuizProject"
+		},
+		{
+			"path": "..\\..\\javascripthtmlcss.quizgame"
+		},
+		{
+			"path": "..\\leapyear"
+		},
+		{
+			"path": "..\\..\\nodejs"
+		}
+	],
+	"settings": {}
+}
